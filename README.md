@@ -40,5 +40,4 @@ Git · CI/CD Concepts · Automation Tooling
 
 ## Contact
 
-LinkedIn: (link)  
-Email: (email)
+[LinkedIn  ](https://www.linkedin.com/in/chris-landmark)
