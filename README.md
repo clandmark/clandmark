@@ -1,22 +1,44 @@
-## Hi there 👋
+# Hi, I'm Chris
 
-<!--
-**clandmark/clandmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Automation Engineer focused on designing and building systems that eliminate repetitive work and improve operational efficiency.
 
-Here are some ideas to get you started:
+My work centers around scripting, workflow design, and advanced Excel-based automation, with a growing focus on RPA and infrastructure tooling.
 
-Just testing
+---
 
-WHat about this?
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design automation systems to streamline operational workflows
+- Build Python and PowerShell scripting solutions
+- Develop advanced Excel-based tools (VBA, Office Scripts, Power Query)
+- Improve data handling and reporting processes
+- Explore RPA platforms such as UiPath and Power Automate
 
-Test
+---
+
+## Core Technologies
+
+Python · PowerShell · VBA · Office Scripts · SQL  
+Excel (Advanced) · Power Query (M) · Workflow Design  
+Git · CI/CD Concepts · Automation Tooling
+
+---
+
+## Current Focus
+
+- Expanding into RPA engineering
+- Building production-grade automation projects
+- Developing DevOps-oriented automation skills
+
+---
+
+## Selected Projects
+
+(Links to your automation repos will go here.)
+
+---
+
+## Contact
+
+LinkedIn: (link)  
+Email: (email)
